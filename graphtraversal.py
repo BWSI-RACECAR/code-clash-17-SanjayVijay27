@@ -85,7 +85,7 @@ class Solution:
         #return type: int
         
         #TODO: Write code below to return an int with the solution to the prompt.
-        graph["Finish"] = {}
+        # graph["Finish"] = {}
         new_nodes = []
         nodes = []
         for node in graph.keys():
